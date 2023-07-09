@@ -16,7 +16,7 @@
   "gui.authme.method.button.offline": "Yhteydetön",
 
   "gui.authme.microsoft.title": "Microsoft-kirjautuminen",
-  "gui.authme.microsoft.browser": "Voit nyt sulkea tämän ikkunan ja palata Minecraftiin!",
+  "gui.authme.microsoft.browser": "<!doctype html><html lang=\"fi_fi\"><head><meta charset=\"utf-8\" /><link rel=\"icon\" type=\"image/x-icon\" href=\"https://raw.githubusercontent.com/axieum/authme/main/src/main/resources/assets/authme/icon.png\" /><title>AuthMe</title></head><body><span style=\"font-family: Calibri;\">Voit nyt sulkea tämän ikkunan ja palata Minecraftiin!</span></body></html>",
   "gui.authme.microsoft.status.checkBrowser": "Tarkista selaimesi...",
   "gui.authme.microsoft.status.msAccessToken": "Hankitaan Microsoft-pääsytunnusta...",
   "gui.authme.microsoft.status.xboxAccessToken": "Hankitaan Xbox-pääsytunnusta...",

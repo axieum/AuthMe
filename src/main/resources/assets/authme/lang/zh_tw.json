@@ -17,7 +17,7 @@
   "gui.authme.method.button.offline": "離線",
 
   "gui.authme.microsoft.title": "透過 Microsoft 登入",
-  "gui.authme.microsoft.browser": "您現在可以關閉這個視窗並返回 Minecraft！",
+  "gui.authme.microsoft.browser": "<!doctype html><html lang=\"zh_tw\"><head><meta charset=\"utf-8\" /><link rel=\"icon\" type=\"image/x-icon\" href=\"https://raw.githubusercontent.com/axieum/authme/main/src/main/resources/assets/authme/icon.png\" /><title>AuthMe</title></head><body><span style=\"font-family: Calibri;\">您現在可以關閉這個視窗並返回 Minecraft！</span></body></html>",
   "gui.authme.microsoft.status.checkBrowser": "請查看您的瀏覽器...",
   "gui.authme.microsoft.status.msAccessToken": "獲取 Microsoft 存取權杖...",
   "gui.authme.microsoft.status.xboxAccessToken": "獲取 Xbox 存取權杖...",

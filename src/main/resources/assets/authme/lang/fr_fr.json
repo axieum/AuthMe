@@ -16,7 +16,7 @@
   "gui.authme.method.button.offline": "Hors-ligne",
 
   "gui.authme.microsoft.title": "Se connecter grâce à Microsoft",
-  "gui.authme.microsoft.browser": "Vous pouvez fermer cette fenêtre et retourner sur minecraft !",
+  "gui.authme.microsoft.browser": "<!doctype html><html lang=\"fr_fr\"><head><meta charset=\"utf-8\" /><link rel=\"icon\" type=\"image/x-icon\" href=\"https://raw.githubusercontent.com/axieum/authme/main/src/main/resources/assets/authme/icon.png\" /><title>AuthMe</title></head><body><span style=\"font-family: Calibri;\">Vous pouvez fermer cette fenêtre et retourner sur minecraft !</span></body></html>",
   "gui.authme.microsoft.status.checkBrowser": "Veuillez vérifier votre navigateur",
   "gui.authme.microsoft.status.msAccessToken": "Acquisition du jeton d'accès Microsoft...",
   "gui.authme.microsoft.status.xboxAccessToken": "Acquisition du jeton d'accès Xbox...",
