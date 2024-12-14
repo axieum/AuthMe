@@ -1,0 +1,57 @@
+{
+  "gui.authme.button.auth": "Autenticación",
+  "gui.authme.button.auth.tooltip": "¡Hola, %s!",
+  "gui.authme.button.relogin": "Volver a iniciar sesión",
+
+  "gui.authme.error.generic": "¡Algo salió mal! Por favor, regresa e intenta de nuevo.",
+  "gui.authme.error.notPurchased": "¡La cuenta no ha comprado Minecraft!",
+  "gui.authme.error.timeout": "¡Tiempo agotado! Por favor, regresa e intenta de nuevo.",
+
+  "gui.authme.toast.greeting": "¡Hola, %s!",
+
+  "gui.authme.method.title": "Elige un método de inicio de sesión",
+  "gui.authme.method.greeting": "¡Hola, %s!",
+  "gui.authme.method.button.microsoft": "Microsoft",
+  "gui.authme.method.button.microsoft.selectAccount": "Ctrl + clic para elegir cuenta",
+  "gui.authme.method.button.mojang": "Mojang (o legacy)",
+  "gui.authme.method.button.mojang.unavailable": "No disponible, haz clic para obtener más información",
+  "gui.authme.method.button.offline": "Sin conexión",
+
+  "gui.authme.microsoft.title": "Inicio de sesión mediante Microsoft",
+  "gui.authme.microsoft.browser": "¡Ahora puedes cerrar esta ventana y volver a Minecraft!",
+  "gui.authme.microsoft.status.checkBrowser": "Por favor, verifica tu navegador...",
+  "gui.authme.microsoft.status.msAccessToken": "Obteniendo token de acceso de Microsoft...",
+  "gui.authme.microsoft.status.xboxAccessToken": "Obteniendo token de acceso de Xbox...",
+  "gui.authme.microsoft.status.xboxXstsToken": "Obteniendo token de Xbox XSTS...",
+  "gui.authme.microsoft.status.mcAccessToken": "Obteniendo token de acceso de Minecraft...",
+  "gui.authme.microsoft.status.mcProfile": "Obteniendo tu perfil de Minecraft...",
+  "gui.authme.microsoft.warning.title": "¡Advertencia! Opciones no predeterminadas para la autenticación de Microsoft",
+  "gui.authme.microsoft.warning.body": "Si no realizaste este cambio, esto podría filtrar tu token de cuenta. ¿Deseas continuar de todos modos?",
+  "gui.authme.microsoft.warning.accept": "Sé lo que estoy haciendo",
+  "gui.authme.microsoft.warning.cancel": "Volver a la seguridad",
+
+  "gui.authme.mojang.title": "Inicio de sesión mediante Mojang (Legacy)",
+
+  "gui.authme.offline.title": "Inicio de sesión sin conexión",
+  "gui.authme.offline.field.username": "Elige un nombre de usuario",
+  "gui.authme.offline.button.login": "Jugar sin conexión",
+
+  "text.autoconfig.authme.title": "Configuración de Auth Me",
+  "text.autoconfig.authme.option.authButton": "Botón de autenticación",
+  "text.autoconfig.authme.option.authButton.x": "Coordenada X",
+  "text.autoconfig.authme.option.authButton.y": "Coordenada Y",
+  "text.autoconfig.authme.option.authButton.draggable": "¿Se puede arrastrar?",
+  "text.autoconfig.authme.option.methods": "Métodos de inicio de sesión",
+  "text.autoconfig.authme.option.methods.microsoft": "Microsoft",
+  "text.autoconfig.authme.option.methods.microsoft.prompt": "Indicación de interacción",
+  "text.autoconfig.authme.option.methods.microsoft.port": "Puerto de URL de devolución de llamada de OAuth2",
+  "text.autoconfig.authme.option.methods.microsoft.clientId": "ID de cliente de OAuth2",
+  "text.autoconfig.authme.option.methods.microsoft.authorizeUrl": "URL de autorización de OAuth2",
+  "text.autoconfig.authme.option.methods.microsoft.tokenUrl": "URL de token de acceso de OAuth2",
+  "text.autoconfig.authme.option.methods.microsoft.xboxAuthUrl": "URL de autenticación de Xbox",
+  "text.autoconfig.authme.option.methods.microsoft.xboxXstsUrl": "URL de autorización de Xbox XSTS",
+  "text.autoconfig.authme.option.methods.microsoft.mcAuthUrl": "URL de autenticación de Minecraft",
+  "text.autoconfig.authme.option.methods.microsoft.mcProfileUrl": "URL de perfil de Minecraft",
+  "text.autoconfig.authme.option.methods.offline": "Sin conexión",
+  "text.autoconfig.authme.option.methods.offline.lastUsername": "Último nombre de usuario utilizado"
+}
