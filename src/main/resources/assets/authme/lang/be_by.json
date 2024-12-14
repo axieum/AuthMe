@@ -1,0 +1,57 @@
+{
+  "gui.authme.button.auth": "Аутэнтыфікацыя",
+  "gui.authme.button.auth.tooltip": "Вітанкі, %s!",
+  "gui.authme.button.relogin": "Рэлогін",
+
+  "gui.authme.error.generic": "Нешта пайшло не так! Калі ласка, паспрабуйце яшчэ раз.",
+  "gui.authme.error.notPurchased": "Гэты ўліковы запіс не мае копіі Minecraft!",
+  "gui.authme.error.timeout": "Час выйшаў! Калі ласка, паспрабуйце яшчэ раз.",
+
+  "gui.authme.toast.greeting": "Вітанкі, %s!",
+
+  "gui.authme.method.title": "Выберыце метад уваходу",
+  "gui.authme.method.greeting": "Вітанкі, %s!",
+  "gui.authme.method.button.microsoft": "Microsoft",
+  "gui.authme.method.button.microsoft.selectAccount": "Ctrl + клік для выбора ўліковага запісу",
+  "gui.authme.method.button.mojang": "Mojang (ці састарэлы)",
+  "gui.authme.method.button.mojang.unavailable": "Недаступна, націсніце, каб даведацца больш",
+  "gui.authme.method.button.offline": "Па-за сеткай",
+
+  "gui.authme.microsoft.title": "Увайсці праз Microsoft",
+  "gui.authme.microsoft.browser": "Вы можаце закрыць гэта акно і вярнуцца ў Minecraft!",
+  "gui.authme.microsoft.status.checkBrowser": "Калі ласка, праверце ваш браузер...",
+  "gui.authme.microsoft.status.msAccessToken": "Атрыманне токена доступу Microsoft...",
+  "gui.authme.microsoft.status.xboxAccessToken": "Атрыманне токена доступу Xbox...",
+  "gui.authme.microsoft.status.xboxXstsToken": "Атрыманне токена XSTS Xbox ...",
+  "gui.authme.microsoft.status.mcAccessToken": "Атрыманне токена доступу Minecraft...",
+  "gui.authme.microsoft.status.mcProfile": "Атрыманне вашага пофілю Minecraft...",
+  "gui.authme.microsoft.warning.title": "Увага! Нестандартные налады для аўтэнтыфікацыі Microsoft",
+  "gui.authme.microsoft.warning.body": "Калі тут вы самастойна нічога не змянялі, то гэта можа сведчыць пра тое, што ваш токен уваходу скампраметыраваны. Вы усё роўна хаціце працягнуць?",
+  "gui.authme.microsoft.warning.accept": "Я ведаю, што раблю",
+  "gui.authme.microsoft.warning.cancel": "Скасаваць",
+
+  "gui.authme.mojang.title": "Увайсці праз Mojang (Састарэлы)",
+
+  "gui.authme.offline.title": "Увайсці па-за сеткай",
+  "gui.authme.offline.field.username": "Выберыце імя карыстальніка",
+  "gui.authme.offline.button.login": "Гуляць па-за стекай",
+
+  "text.autoconfig.authme.title": "Налаыд Auth Me",
+  "text.autoconfig.authme.option.authButton": "Кнопка аўтарызацыі",
+  "text.autoconfig.authme.option.authButton.x": "Каардыната X",
+  "text.autoconfig.authme.option.authButton.y": "Каардыната Y",
+  "text.autoconfig.authme.option.authButton.draggable": "Можна перацягваць?",
+  "text.autoconfig.authme.option.methods": "Метады уваходу",
+  "text.autoconfig.authme.option.methods.microsoft": "Microsoft",
+  "text.autoconfig.authme.option.methods.microsoft.prompt": "Падказка да узаемадзеяння",
+  "text.autoconfig.authme.option.methods.microsoft.port": "OAuth2 Callback Url Port",
+  "text.autoconfig.authme.option.methods.microsoft.clientId": "Client Id OAuth2",
+  "text.autoconfig.authme.option.methods.microsoft.authorizeUrl": "Url аўтарызацыі OAuth2",
+  "text.autoconfig.authme.option.methods.microsoft.tokenUrl": "Url токена доступу OAuth2",
+  "text.autoconfig.authme.option.methods.microsoft.xboxAuthUrl": "Url аўтэнтыфікацыі Xbox",
+  "text.autoconfig.authme.option.methods.microsoft.xboxXstsUrl": "Url аўтэнтыфікацыі Xbox XSTS",
+  "text.autoconfig.authme.option.methods.microsoft.mcAuthUrl": "Url аўтэнтыфікацыі Minecraft",
+  "text.autoconfig.authme.option.methods.microsoft.mcProfileUrl": "Спасылка на профіль Minecraft",
+  "text.autoconfig.authme.option.methods.offline": "Па-за сеткай",
+  "text.autoconfig.authme.option.methods.offline.lastUsername": "Апошняе імя карыстальніка"
+}
